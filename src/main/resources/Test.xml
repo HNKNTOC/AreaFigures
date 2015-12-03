@@ -1,0 +1,26 @@
+<shapes>
+  <!--You have a CHOICE of the next 4 items at this level-->
+  <!--1 or more repetitions:-->
+  <circle>
+    <color>string</color>
+    <diameter>20.2</diameter>
+  </circle>
+  <!--1 or more repetitions:-->
+  <triangle>
+    <color>string</color>
+    <side>4</side>
+    <side>4</side>
+    <side>4</side>
+  </triangle>
+  <!--1 or more repetitions:-->
+  <square>
+    <color>string</color>
+    <side>10</side>
+  </square>
+  <!--1 or more repetitions:-->
+  <rectangle>
+    <color>string</color>
+    <side>7</side>
+    <side>7</side>
+  </rectangle>
+</shapes>
