@@ -9,7 +9,7 @@ class Main {
     public static void main(String[] args) {
         ParsingXML parsingXML = new ParsingXML();
 
-        args = new String[]{"C:\\Users\\HNKNTOC\\Desktop\\Test.xml"};
+        //args = new String[]{"C:\\Users\\HNKNTOC\\Desktop\\Test.xml"};
 
         //Проверяем есть ли в  args путь файла
         if(args.length==0){
